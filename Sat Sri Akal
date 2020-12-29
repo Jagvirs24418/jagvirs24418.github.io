@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+printf("Sat Sri Akal");
+printf("\nWaheguru Ji Ka Khalsa");
+printf("\nWaheguru Ji ki Fateh");
+return 0;
+}
